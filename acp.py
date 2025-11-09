@@ -1,3 +1,4 @@
+# Weather Checker Application using Open-Meteo API
 import requests
 
 # Open-Meteo APIs for Geocoding (City -> Coordinates) and Forecast (Coordinates -> Weather)
